@@ -37,7 +37,7 @@ biome tint colors them, exactly like vanilla convention.
 
 All 4,192 model JSONs in the extracted template (`models/block` + `models/item`) were
 scanned for texture references (2,169 distinct refs, including glass's
-`{"sprite": ...}` form). **All 119 generated textures are referenced by at least one
+`{"sprite": ...}` form). **All 217 generated textures are referenced by at least one
 template model/blockstate** (min 1, max 40 references each) and land at the exact paths
 the models point to (singular `block/` / `item/` dirs, verified against the template's
 own JSONs).
@@ -45,13 +45,15 @@ own JSONs).
 ## What was intentionally skipped
 
 The template references 2,169 textures in total; everything outside the drawn set falls
-back to the template's placeholder art. After the round-two extension (podzol/mycelium
-caps and paths, farmland, the sandstone and ice families, andesite/diorite/granite,
-stone-brick variants, the deepslate brick family, obsidian, nether and end stones,
-birch/spruce/dark oak, pumpkins/melons/hay, six wool colors, cobweb, TNT) the drawn set
-is 119 textures. Still skipped: deepslate ore variants, the remaining wood families
-(jungle/acacia/mangrove/cherry), wool beyond the six base colors, the terracotta color
-family, netherite tools, chests (entity textures, different path scheme), and most
+back to the template's placeholder art. After the rounds two and three (podzol/mycelium
+caps and paths, farmland, sandstone and ice, andesite/diorite/granite, stone-brick
+variants, deepslate bricks, obsidian, nether and end stones, birch/spruce/dark oak,
+pumpkins/melons/hay, six wools, cobweb, TNT; then jungle/acacia/mangrove/cherry, the
+deepslate ore set plus the four missing stone ores, fifteen colored terracottas,
+quartz, ancient debris, netherite, magma, soul soil, basalt, blackstone, crimson and
+warped stems) the drawn set
+is 217 textures. Still skipped: the glazed-terracotta patterns, wool beyond the base colors, concrete,
+netherite tools, chests (entity textures, different path scheme), and most
 painting/particle/environment art. Quality over exhaustive coverage.
 
 > Note: the template ships every vanilla texture as a 16x16 magenta/black placeholder
