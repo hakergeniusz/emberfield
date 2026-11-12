@@ -37,7 +37,7 @@ biome tint colors them, exactly like vanilla convention.
 
 All 4,192 model JSONs in the extracted template (`models/block` + `models/item`) were
 scanned for texture references (2,169 distinct refs, including glass's
-`{"sprite": ...}` form). **All 295 generated textures are referenced by at least one
+`{"sprite": ...}` form). **All 332 generated textures are referenced by at least one
 template model/blockstate** (min 1, max 40 references each) and land at the exact paths
 the models point to (singular `block/` / `item/` dirs, verified against the template's
 own JSONs).
@@ -56,9 +56,10 @@ cut copper, the nether-brick variants, quartz pillar and bricks; then the prisma
 family, moss, mud bricks, dripstone, both wart blocks, shroomlight, slime,
 dried kelp and the target block; then the ten missing
 wool colors, the cut-copper oxidation set, chiseled stone bricks and the polished
-stone trio) the drawn set
-is 295 textures. Still skipped: the glazed-terracotta patterns, wool beyond all sixteen colors, the cut-copper
-oxidation family, functional-block face sets (loom, cartography, smithing, jukebox),
+stone trio; then the functional-block faces (loom, cartography, smithing, fletching,
+jukebox, grindstone, stonecutter, composter, enchanting) and the ten coral blocks) the drawn set
+is 332 textures. Still skipped: the glazed-terracotta patterns, wool beyond all sixteen colors, the cut-copper
+oxidation family, the remaining functional face sets and glazed-terracotta motifs,
 netherite tools, chests (entity textures, different path scheme), and most
 painting/particle/environment art. Quality over exhaustive coverage.
 
