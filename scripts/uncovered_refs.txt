@@ -286,7 +286,6 @@ block/dark_oak_sapling
 block/dark_oak_shelf
 block/dark_oak_sign
 block/dark_oak_trapdoor
-block/dark_prismarine
 block/daylight_detector_inverted_top
 block/daylight_detector_side
 block/daylight_detector_top
@@ -339,10 +338,7 @@ block/dried_ghast_hydration_3_south
 block/dried_ghast_hydration_3_tentacles
 block/dried_ghast_hydration_3_top
 block/dried_ghast_hydration_3_west
-block/dried_kelp_bottom
-block/dried_kelp_side
 block/dried_kelp_top
-block/dripstone_block
 block/dropper_front
 block/dropper_front_vertical
 block/emerald_block
@@ -549,9 +545,6 @@ block/mangrove_sign
 block/mangrove_trapdoor
 block/medium_amethyst_bud
 block/melon_stem
-block/moss_block
-block/mud
-block/mud_bricks
 block/muddy_mangrove_roots_side
 block/muddy_mangrove_roots_top
 block/mushroom_block_inside
@@ -559,7 +552,6 @@ block/mushroom_stem
 block/nether_gold_ore
 block/nether_portal
 block/nether_sprouts
-block/nether_wart_block
 block/nether_wart_stage0
 block/nether_wart_stage1
 block/nether_wart_stage2
@@ -611,7 +603,6 @@ block/oxidized_copper_lantern
 block/oxidized_copper_trapdoor
 block/oxidized_cut_copper
 block/oxidized_lightning_rod
-block/packed_mud
 block/pale_hanging_moss
 block/pale_hanging_moss_tip
 block/pale_moss_block
@@ -709,8 +700,6 @@ block/potted_flowering_azalea_bush_top
 block/powder_snow
 block/powered_rail
 block/powered_rail_on
-block/prismarine
-block/prismarine_bricks
 block/pumpkin_stem
 block/purple_bed_foot_east
 block/purple_bed_foot_south
@@ -806,7 +795,6 @@ block/sculk_shrieker_inner_top
 block/sculk_shrieker_side
 block/sculk_shrieker_top
 block/sculk_vein
-block/sea_lantern
 block/sea_pickle
 block/seagrass
 block/shelf_mushroom_particle
@@ -814,9 +802,7 @@ block/shelf_mushroom_stage0
 block/shelf_mushroom_stage1
 block/short_dry_grass
 block/short_grass
-block/shroomlight
 block/shulker_box
-block/slime_block
 block/small_amethyst_bud
 block/small_dripleaf_side
 block/small_dripleaf_stem_bottom
@@ -940,8 +926,6 @@ block/tall_grass_bottom
 block/tall_grass_top
 block/tall_seagrass_bottom
 block/tall_seagrass_top
-block/target_side
-block/target_top
 block/test_block_accept
 block/test_block_fail
 block/test_block_log
@@ -1003,7 +987,6 @@ block/warped_roots_pot
 block/warped_shelf
 block/warped_sign
 block/warped_trapdoor
-block/warped_wart_block
 block/water_still
 block/weathered_chiseled_copper
 block/weathered_copper_bars
