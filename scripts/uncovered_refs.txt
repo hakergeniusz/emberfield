@@ -100,8 +100,6 @@ block/blue_orchid
 block/blue_shulker_box
 block/blue_stained_glass
 block/blue_stained_glass_pane_top
-block/bone_block_side
-block/bone_block_top
 block/brain_coral
 block/brain_coral_fan
 block/brewing_stand
@@ -116,7 +114,6 @@ block/brown_bed_head_west
 block/brown_candle
 block/brown_candle_lit
 block/brown_mushroom
-block/brown_mushroom_block
 block/brown_shulker_box
 block/brown_stained_glass
 block/brown_stained_glass_pane_top
@@ -128,10 +125,7 @@ block/cactus_bottom
 block/cactus_flower
 block/cactus_side
 block/cactus_top
-block/cake_bottom
 block/cake_inner
-block/cake_side
-block/cake_top
 block/calibrated_sculk_sensor_amethyst
 block/calibrated_sculk_sensor_input_side
 block/calibrated_sculk_sensor_top
@@ -164,23 +158,16 @@ block/cherry_shelf
 block/cherry_sign
 block/cherry_trapdoor
 block/chipped_anvil_top
-block/chiseled_bookshelf_empty
-block/chiseled_bookshelf_occupied
-block/chiseled_bookshelf_side
-block/chiseled_bookshelf_top
 block/chiseled_cinnabar
 block/chiseled_copper
 block/chiseled_deepslate
-block/chiseled_polished_blackstone
 block/chiseled_resin_bricks
 block/chiseled_sulfur
 block/chiseled_tuff
 block/chiseled_tuff_bricks
 block/chiseled_tuff_bricks_top
 block/chiseled_tuff_top
-block/chorus_flower
 block/chorus_flower_dead
-block/chorus_plant
 block/cinnabar
 block/cinnabar_bricks
 block/closed_eyeblossom
@@ -211,7 +198,6 @@ block/copper_trapdoor
 block/cornflower
 block/cracked_deepslate_bricks
 block/cracked_deepslate_tiles
-block/cracked_polished_blackstone_bricks
 block/crafter_bottom
 block/crafter_east
 block/crafter_east_crafting
@@ -236,8 +222,6 @@ block/crimson_door_bottom
 block/crimson_door_top
 block/crimson_fungus
 block/crimson_hanging_sign
-block/crimson_nylium
-block/crimson_nylium_side
 block/crimson_roots
 block/crimson_roots_pot
 block/crimson_shelf
@@ -318,7 +302,6 @@ block/emerald_block
 block/end_portal_frame_eye
 block/end_portal_frame_side
 block/end_portal_frame_top
-block/end_rod
 block/exposed_chiseled_copper
 block/exposed_copper_bars
 block/exposed_copper_bulb
@@ -349,7 +332,6 @@ block/frosted_ice_0
 block/frosted_ice_1
 block/frosted_ice_2
 block/frosted_ice_3
-block/gilded_blackstone
 block/glass_pane_top
 block/glow_item_frame
 block/glow_lichen
@@ -461,8 +443,6 @@ block/lime_candle_lit
 block/lime_shulker_box
 block/lime_stained_glass
 block/lime_stained_glass_pane_top
-block/lodestone_side
-block/lodestone_top
 block/loom_bottom
 block/magenta_bed_foot_east
 block/magenta_bed_foot_south
@@ -491,7 +471,6 @@ block/melon_stem
 block/muddy_mangrove_roots_side
 block/muddy_mangrove_roots_top
 block/mushroom_block_inside
-block/mushroom_stem
 block/nether_gold_ore
 block/nether_portal
 block/nether_sprouts
@@ -605,11 +584,8 @@ block/pointed_dripstone_up_tip
 block/pointed_dripstone_up_tip_merge
 block/polished_basalt_side
 block/polished_basalt_top
-block/polished_blackstone
-block/polished_blackstone_bricks
 block/polished_cinnabar
 block/polished_sulfur
-block/polished_tuff
 block/poplar_door_bottom
 block/poplar_door_top
 block/poplar_hanging_sign
@@ -664,7 +640,6 @@ block/red_bed_head_west
 block/red_candle
 block/red_candle_lit
 block/red_mushroom
-block/red_mushroom_block
 block/red_poplar_leaves
 block/red_sandstone_bottom
 block/red_shrub
@@ -694,13 +669,8 @@ block/repeating_command_block_side
 block/resin_block
 block/resin_bricks
 block/resin_clump
-block/respawn_anchor_bottom
-block/respawn_anchor_side0
-block/respawn_anchor_side1
-block/respawn_anchor_side2
 block/respawn_anchor_side3
 block/respawn_anchor_side4
-block/respawn_anchor_top
 block/respawn_anchor_top_off
 block/rooted_dirt
 block/rose_bush_bottom
@@ -744,8 +714,6 @@ block/smoker_front
 block/smoker_front_on
 block/smoker_side
 block/smoker_top
-block/smooth_basalt
-block/smooth_stone
 block/smooth_stone_slab_side
 block/sniffer_egg_not_cracked_bottom
 block/sniffer_egg_not_cracked_east
@@ -771,7 +739,6 @@ block/soul_fire_0
 block/soul_fire_1
 block/soul_torch
 block/spawner
-block/sponge
 block/spore_blossom
 block/spore_blossom_base
 block/spruce_door_bottom
@@ -872,7 +839,6 @@ block/tripwire
 block/tripwire_hook
 block/tube_coral
 block/tube_coral_fan
-block/tuff_bricks
 block/turtle_egg
 block/turtle_egg_slightly_cracked
 block/turtle_egg_very_cracked
@@ -901,8 +867,6 @@ block/warped_door_bottom
 block/warped_door_top
 block/warped_fungus
 block/warped_hanging_sign
-block/warped_nylium
-block/warped_nylium_side
 block/warped_roots
 block/warped_roots_pot
 block/warped_shelf
@@ -924,7 +888,6 @@ block/weathered_copper_trapdoor
 block/weathered_lightning_rod
 block/weeping_vines
 block/weeping_vines_plant
-block/wet_sponge
 block/wheat_stage0
 block/wheat_stage1
 block/wheat_stage2
