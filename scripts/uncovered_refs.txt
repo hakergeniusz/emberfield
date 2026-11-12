@@ -79,8 +79,6 @@ block/black_bed_head_up
 block/black_bed_head_west
 block/black_candle
 block/black_candle_lit
-block/black_concrete
-block/black_concrete_powder
 block/black_glazed_terracotta
 block/black_shulker_box
 block/black_stained_glass
@@ -99,8 +97,6 @@ block/blue_bed_head_up
 block/blue_bed_head_west
 block/blue_candle
 block/blue_candle_lit
-block/blue_concrete
-block/blue_concrete_powder
 block/blue_glazed_terracotta
 block/blue_orchid
 block/blue_shulker_box
@@ -122,8 +118,6 @@ block/brown_bed_head_up
 block/brown_bed_head_west
 block/brown_candle
 block/brown_candle_lit
-block/brown_concrete
-block/brown_concrete_powder
 block/brown_glazed_terracotta
 block/brown_mushroom
 block/brown_mushroom_block
@@ -187,7 +181,6 @@ block/chiseled_bookshelf_top
 block/chiseled_cinnabar
 block/chiseled_copper
 block/chiseled_deepslate
-block/chiseled_nether_bricks
 block/chiseled_polished_blackstone
 block/chiseled_quartz_block
 block/chiseled_quartz_block_top
@@ -222,7 +215,6 @@ block/composter_side
 block/composter_top
 block/conduit
 block/copper_bars
-block/copper_block
 block/copper_bulb
 block/copper_bulb_lit
 block/copper_bulb_lit_powered
@@ -237,7 +229,6 @@ block/copper_trapdoor
 block/cornflower
 block/cracked_deepslate_bricks
 block/cracked_deepslate_tiles
-block/cracked_nether_bricks
 block/cracked_polished_blackstone_bricks
 block/crafter_bottom
 block/crafter_east
@@ -270,7 +261,6 @@ block/crimson_roots_pot
 block/crimson_shelf
 block/crimson_sign
 block/crimson_trapdoor
-block/cut_copper
 block/cut_red_sandstone
 block/cut_sandstone
 block/cyan_bed_foot_east
@@ -282,8 +272,6 @@ block/cyan_bed_head_up
 block/cyan_bed_head_west
 block/cyan_candle
 block/cyan_candle_lit
-block/cyan_concrete
-block/cyan_concrete_powder
 block/cyan_glazed_terracotta
 block/cyan_shulker_box
 block/cyan_stained_glass
@@ -366,7 +354,6 @@ block/end_portal_frame_side
 block/end_portal_frame_top
 block/end_rod
 block/exposed_chiseled_copper
-block/exposed_copper
 block/exposed_copper_bars
 block/exposed_copper_bulb
 block/exposed_copper_bulb_lit
@@ -414,8 +401,6 @@ block/gray_bed_head_up
 block/gray_bed_head_west
 block/gray_candle
 block/gray_candle_lit
-block/gray_concrete
-block/gray_concrete_powder
 block/gray_glazed_terracotta
 block/gray_shulker_box
 block/gray_stained_glass
@@ -430,8 +415,6 @@ block/green_bed_head_up
 block/green_bed_head_west
 block/green_candle
 block/green_candle_lit
-block/green_concrete
-block/green_concrete_powder
 block/green_glazed_terracotta
 block/green_shulker_box
 block/green_stained_glass
@@ -495,8 +478,6 @@ block/light_blue_bed_head_up
 block/light_blue_bed_head_west
 block/light_blue_candle
 block/light_blue_candle_lit
-block/light_blue_concrete
-block/light_blue_concrete_powder
 block/light_blue_glazed_terracotta
 block/light_blue_shulker_box
 block/light_blue_stained_glass
@@ -511,8 +492,6 @@ block/light_gray_bed_head_up
 block/light_gray_bed_head_west
 block/light_gray_candle
 block/light_gray_candle_lit
-block/light_gray_concrete
-block/light_gray_concrete_powder
 block/light_gray_glazed_terracotta
 block/light_gray_shulker_box
 block/light_gray_stained_glass
@@ -533,8 +512,6 @@ block/lime_bed_head_up
 block/lime_bed_head_west
 block/lime_candle
 block/lime_candle_lit
-block/lime_concrete
-block/lime_concrete_powder
 block/lime_glazed_terracotta
 block/lime_shulker_box
 block/lime_stained_glass
@@ -555,8 +532,6 @@ block/magenta_bed_head_up
 block/magenta_bed_head_west
 block/magenta_candle
 block/magenta_candle_lit
-block/magenta_concrete
-block/magenta_concrete_powder
 block/magenta_glazed_terracotta
 block/magenta_shulker_box
 block/magenta_stained_glass
@@ -614,8 +589,6 @@ block/orange_bed_head_up
 block/orange_bed_head_west
 block/orange_candle
 block/orange_candle_lit
-block/orange_concrete
-block/orange_concrete_powder
 block/orange_glazed_terracotta
 block/orange_poplar_leaves
 block/orange_shulker_box
@@ -625,7 +598,6 @@ block/orange_tulip
 block/orange_wool
 block/oxeye_daisy
 block/oxidized_chiseled_copper
-block/oxidized_copper
 block/oxidized_copper_bars
 block/oxidized_copper_bulb
 block/oxidized_copper_bulb_lit
@@ -670,8 +642,6 @@ block/pink_bed_head_up
 block/pink_bed_head_west
 block/pink_candle
 block/pink_candle_lit
-block/pink_concrete
-block/pink_concrete_powder
 block/pink_glazed_terracotta
 block/pink_petals
 block/pink_petals_stem
@@ -751,8 +721,6 @@ block/purple_bed_head_up
 block/purple_bed_head_west
 block/purple_candle
 block/purple_candle_lit
-block/purple_concrete
-block/purple_concrete_powder
 block/purple_glazed_terracotta
 block/purple_shulker_box
 block/purple_stained_glass
@@ -761,9 +729,6 @@ block/purple_wool
 block/purpur_pillar_side
 block/purpur_pillar_top
 block/quartz_block_top
-block/quartz_bricks
-block/quartz_pillar_side
-block/quartz_pillar_top
 block/rail
 block/rail_corner
 block/raw_copper_block
@@ -778,12 +743,9 @@ block/red_bed_head_up
 block/red_bed_head_west
 block/red_candle
 block/red_candle_lit
-block/red_concrete
-block/red_concrete_powder
 block/red_glazed_terracotta
 block/red_mushroom
 block/red_mushroom_block
-block/red_nether_bricks
 block/red_poplar_leaves
 block/red_sandstone_bottom
 block/red_shrub
@@ -1044,7 +1006,6 @@ block/warped_trapdoor
 block/warped_wart_block
 block/water_still
 block/weathered_chiseled_copper
-block/weathered_copper
 block/weathered_copper_bars
 block/weathered_copper_bulb
 block/weathered_copper_bulb_lit
@@ -1078,8 +1039,6 @@ block/white_bed_head_up
 block/white_bed_head_west
 block/white_candle
 block/white_candle_lit
-block/white_concrete
-block/white_concrete_powder
 block/white_glazed_terracotta
 block/white_shulker_box
 block/white_stained_glass
@@ -1097,8 +1056,6 @@ block/yellow_bed_head_up
 block/yellow_bed_head_west
 block/yellow_candle
 block/yellow_candle_lit
-block/yellow_concrete
-block/yellow_concrete_powder
 block/yellow_glazed_terracotta
 block/yellow_poplar_leaves
 block/yellow_shulker_box

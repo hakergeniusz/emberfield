@@ -37,7 +37,7 @@ biome tint colors them, exactly like vanilla convention.
 
 All 4,192 model JSONs in the extracted template (`models/block` + `models/item`) were
 scanned for texture references (2,169 distinct refs, including glass's
-`{"sprite": ...}` form). **All 217 generated textures are referenced by at least one
+`{"sprite": ...}` form). **All 259 generated textures are referenced by at least one
 template model/blockstate** (min 1, max 40 references each) and land at the exact paths
 the models point to (singular `block/` / `item/` dirs, verified against the template's
 own JSONs).
@@ -51,9 +51,10 @@ variants, deepslate bricks, obsidian, nether and end stones, birch/spruce/dark o
 pumpkins/melons/hay, six wools, cobweb, TNT; then jungle/acacia/mangrove/cherry, the
 deepslate ore set plus the four missing stone ores, fifteen colored terracottas,
 quartz, ancient debris, netherite, magma, soul soil, basalt, blackstone, crimson and
-warped stems) the drawn set
-is 217 textures. Still skipped: the glazed-terracotta patterns, wool beyond the base colors, concrete,
-netherite tools, chests (entity textures, different path scheme), and most
+warped stems; then the concrete and concrete-powder families, copper oxidation,
+cut copper, the nether-brick variants, quartz pillar and bricks) the drawn set
+is 259 textures. Still skipped: the glazed-terracotta patterns, wool beyond the base colors, the cut-copper
+oxidation family, netherite tools, chests (entity textures, different path scheme), and most
 painting/particle/environment art. Quality over exhaustive coverage.
 
 > Note: the template ships every vanilla texture as a 16x16 magenta/black placeholder
