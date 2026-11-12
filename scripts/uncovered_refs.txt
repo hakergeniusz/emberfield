@@ -124,7 +124,6 @@ block/brown_mushroom_block
 block/brown_shulker_box
 block/brown_stained_glass
 block/brown_stained_glass_pane_top
-block/brown_wool
 block/bubble_coral
 block/bubble_coral_block
 block/bubble_coral_fan
@@ -187,7 +186,6 @@ block/chiseled_quartz_block_top
 block/chiseled_red_sandstone
 block/chiseled_resin_bricks
 block/chiseled_sandstone
-block/chiseled_stone_bricks
 block/chiseled_sulfur
 block/chiseled_tuff
 block/chiseled_tuff_bricks
@@ -276,7 +274,6 @@ block/cyan_glazed_terracotta
 block/cyan_shulker_box
 block/cyan_stained_glass
 block/cyan_stained_glass_pane_top
-block/cyan_wool
 block/damaged_anvil_top
 block/dandelion
 block/dark_oak_door_bottom
@@ -361,7 +358,6 @@ block/exposed_copper_door_top
 block/exposed_copper_grate
 block/exposed_copper_lantern
 block/exposed_copper_trapdoor
-block/exposed_cut_copper
 block/exposed_lightning_rod
 block/fern
 block/fire_0
@@ -401,7 +397,6 @@ block/gray_glazed_terracotta
 block/gray_shulker_box
 block/gray_stained_glass
 block/gray_stained_glass_pane_top
-block/gray_wool
 block/green_bed_foot_east
 block/green_bed_foot_south
 block/green_bed_foot_up
@@ -478,7 +473,6 @@ block/light_blue_glazed_terracotta
 block/light_blue_shulker_box
 block/light_blue_stained_glass
 block/light_blue_stained_glass_pane_top
-block/light_blue_wool
 block/light_gray_bed_foot_east
 block/light_gray_bed_foot_south
 block/light_gray_bed_foot_up
@@ -492,7 +486,6 @@ block/light_gray_glazed_terracotta
 block/light_gray_shulker_box
 block/light_gray_stained_glass
 block/light_gray_stained_glass_pane_top
-block/light_gray_wool
 block/lightning_rod
 block/lightning_rod_on
 block/lilac_bottom
@@ -512,7 +505,6 @@ block/lime_glazed_terracotta
 block/lime_shulker_box
 block/lime_stained_glass
 block/lime_stained_glass_pane_top
-block/lime_wool
 block/lodestone_side
 block/lodestone_top
 block/loom_bottom
@@ -532,7 +524,6 @@ block/magenta_glazed_terracotta
 block/magenta_shulker_box
 block/magenta_stained_glass
 block/magenta_stained_glass_pane_top
-block/magenta_wool
 block/mangrove_door_bottom
 block/mangrove_door_top
 block/mangrove_hanging_sign
@@ -587,7 +578,6 @@ block/orange_shulker_box
 block/orange_stained_glass
 block/orange_stained_glass_pane_top
 block/orange_tulip
-block/orange_wool
 block/oxeye_daisy
 block/oxidized_chiseled_copper
 block/oxidized_copper_bars
@@ -601,7 +591,6 @@ block/oxidized_copper_door_top
 block/oxidized_copper_grate
 block/oxidized_copper_lantern
 block/oxidized_copper_trapdoor
-block/oxidized_cut_copper
 block/oxidized_lightning_rod
 block/pale_hanging_moss
 block/pale_hanging_moss_tip
@@ -640,7 +629,6 @@ block/pink_shulker_box
 block/pink_stained_glass
 block/pink_stained_glass_pane_top
 block/pink_tulip
-block/pink_wool
 block/piston_bottom
 block/piston_inner
 block/piston_side
@@ -665,14 +653,11 @@ block/pointed_dripstone_up_frustum
 block/pointed_dripstone_up_middle
 block/pointed_dripstone_up_tip
 block/pointed_dripstone_up_tip_merge
-block/polished_andesite
 block/polished_basalt_side
 block/polished_basalt_top
 block/polished_blackstone
 block/polished_blackstone_bricks
 block/polished_cinnabar
-block/polished_diorite
-block/polished_granite
 block/polished_sulfur
 block/polished_tuff
 block/poplar_door_bottom
@@ -714,7 +699,6 @@ block/purple_glazed_terracotta
 block/purple_shulker_box
 block/purple_stained_glass
 block/purple_stained_glass_pane_top
-block/purple_wool
 block/purpur_pillar_side
 block/purpur_pillar_top
 block/quartz_block_top
@@ -1000,7 +984,6 @@ block/weathered_copper_door_top
 block/weathered_copper_grate
 block/weathered_copper_lantern
 block/weathered_copper_trapdoor
-block/weathered_cut_copper
 block/weathered_lightning_rod
 block/weeping_vines
 block/weeping_vines_plant
